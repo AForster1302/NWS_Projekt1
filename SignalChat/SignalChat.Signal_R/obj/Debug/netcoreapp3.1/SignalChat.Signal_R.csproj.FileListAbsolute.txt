@@ -1,0 +1,8 @@
+C:\Users\Adrian\source\repos\SignalChat\SignalChat.Signal_R\obj\Debug\netcoreapp3.1\SignalChat.Signal_R.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\SignalChat\SignalChat.Signal_R\obj\Debug\netcoreapp3.1\SignalChat.Signal_R.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\source\repos\SignalChat\SignalChat.Signal_R\obj\Debug\netcoreapp3.1\SignalChat.Signal_R.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\SignalChat\SignalChat.Signal_R\obj\Debug\netcoreapp3.1\SignalChat.Signal_R.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\SignalChat\SignalChat.Signal_R\obj\Debug\netcoreapp3.1\SignalChat.Signal_R.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\SignalChat\SignalChat.Signal_R\obj\Debug\netcoreapp3.1\SignalChat.Signal_R.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adrian\source\repos\SignalChat\SignalChat.Signal_R\obj\Debug\netcoreapp3.1\SignalChat.Signal_R.RazorAssemblyInfo.cache
+C:\Users\Adrian\source\repos\SignalChat\SignalChat.Signal_R\obj\Debug\netcoreapp3.1\SignalChat.Signal_R.RazorAssemblyInfo.cs

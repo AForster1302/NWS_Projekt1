@@ -1,0 +1,5 @@
+C:\Users\Adrian\source\repos\SignalChat\SignalChat.Domain\obj\Debug\netcoreapp3.1\SignalChat.Domain.csproj.AssemblyReference.cache
+C:\Users\Adrian\source\repos\SignalChat\SignalChat.Domain\obj\Debug\netcoreapp3.1\SignalChat.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\source\repos\SignalChat\SignalChat.Domain\obj\Debug\netcoreapp3.1\SignalChat.Domain.AssemblyInfoInputs.cache
+C:\Users\Adrian\source\repos\SignalChat\SignalChat.Domain\obj\Debug\netcoreapp3.1\SignalChat.Domain.AssemblyInfo.cs
+C:\Users\Adrian\source\repos\SignalChat\SignalChat.Domain\obj\Debug\netcoreapp3.1\SignalChat.Domain.csproj.CoreCompileInputs.cache

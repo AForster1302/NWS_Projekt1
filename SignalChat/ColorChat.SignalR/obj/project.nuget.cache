@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "2M7QXHq6t8Jj+NVwmHgZexvUsGC4TI2Yc79eBcbBN7O/AN87tYgCn8lDWTm3kE8W2DGexXGxOadWFrQBRnQvhA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Adrian\\source\\repos\\SignalChat\\ColorChat.SignalR\\ColorChat.SignalR.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Das Projekt \"C:\\Users\\Adrian\\source\\repos\\SignalChat\\ColorChat.Domain\\ColorChat.Domain.csproj\" wurde nicht gefunden. Stellen Sie sicher, dass der Projektverweis gültig und die Projektdatei vorhanden ist.",
+      "libraryId": "C:\\Users\\Adrian\\source\\repos\\SignalChat\\ColorChat.Domain\\ColorChat.Domain.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
