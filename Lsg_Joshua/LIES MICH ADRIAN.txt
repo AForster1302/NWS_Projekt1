@@ -1,0 +1,16 @@
+Hi Adrian,
+
+Hier ist meine Lösung, die ich gerade schnell zusammengebastelt habe.
+
+
+
+Wenn du die bei dir ausprobieren willst musst du das Projekt einmal starten, dann öffnet sich ein Browserfenster.
+In der Adressleiste des Browsers müsste dann etwas stehen wie : https://localhost:#####  
+##### ist in dem Fall eine Port Nummer.
+Damit das Projekt bei dir funktioniert musst du in der MainWindow.xaml.cs des Clients in Zeile 47 die Port Nummer ändern (in die, die in deinem Browser angezeigt wird).
+
+Ist aber nur nötig, wenn du es ausprobieren willst, ansonsten kannst du ihm das auch einfach so hochladen (ist mit 82 mb auch klein genug für OSS)
+
+MfG Joshua
+
+PS: diese Datei solltest du ihm nicht mit hochladen :)
